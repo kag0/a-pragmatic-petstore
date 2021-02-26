@@ -2,6 +2,8 @@
 *.log
 out
 .idea
+.idea_modules
 .bsp
 .metals
 .vscode
+.coursier
